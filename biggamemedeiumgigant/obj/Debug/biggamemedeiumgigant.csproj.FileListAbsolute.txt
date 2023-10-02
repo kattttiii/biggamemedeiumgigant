@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\bin\Debug\biggamemedeiumgigant.exe.config
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\bin\Debug\biggamemedeiumgigant.exe
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\bin\Debug\biggamemedeiumgigant.pdb
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\obj\Debug\biggamemedeiumgigant.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\obj\Debug\biggamemedeiumgigant.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\obj\Debug\biggamemedeiumgigant.exe
+C:\Users\user\source\repos\biggamemedeiumgigant\biggamemedeiumgigant\obj\Debug\biggamemedeiumgigant.pdb
